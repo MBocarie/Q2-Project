@@ -1,0 +1,64 @@
+h1 {
+	letter-spacing: 13px;
+	color: lightsalmon;
+	text-align: center;
+	font-weight: lighter;
+	font-family: sans-serif;
+}
+
+h2 {
+	color: yellow;
+	font-weight: bolder;
+}
+
+header {
+	text-align: center;
+	margin-top: 5px;
+	margin-right: 150px;
+	margin-left: 150px;
+
+}
+
+header, body, footer {
+	background-size: cover;
+	background-image: url(https://checkphilippines.com/images/2021/02/11/9-Mount-Mayon-in-Albay.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+header, footer {
+    background: rgba(189, 195, 199, 1);
+    padding: 5px;
+}
+
+section {
+	column-gap: 15px;
+	display:flex;
+	justify-content: center;
+	padding: 5px;
+	height: 200px;
+		}
+
+.Love h2 {
+	font-weight: bolder;
+	font-size: xx-large;
+
+}
+
+.Love {
+	border: 2.5px solid black;
+	width: 295px;
+	height: 210px;
+	background-color: orangered;
+	display: inline-block;
+	text-align: center;
+	box-shadow: 58px 45px 100px 0px #000000;
+	padding: 10px;
+	margin: 5px;
+}
+
+.Love img {
+ 	width: 280px;
+  	height: 178px;
+  	padding: 5px;
+	   }
